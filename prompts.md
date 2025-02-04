@@ -145,3 +145,34 @@ El pasadizo se estrechaba. El aire se llenó de un estruendoso crujido.
 **Continuará...**
 
 
+# Prompt 1.2:
+Me gusta la historia.
+Ahora trabajemos en el capitulo final
+Capítulo final: 
+Desarrolla la historia en base al capitulo 3, la paredes estrechaban a los niños, mientras **Chispa** se desinfló a proposito y se pudo escurrir entre las cadenas que la retenían y cayó justo entre las paredes, subitamente se **Chispa** se infló y dijo a los niños que subieran y escaparan rapidamente de esa trampa.
+- incluye una moraleja a la historia donde muestre el trabajo en equipo, la unión, la valentía, perseverancia de los personajes. 
+
+
+## Salida de la IA:
+Capítulo Final: El Escape
+
+Las paredes se cerraban cada vez más, cuando, de repente, Chispa comenzó a desinflarse por voluntad propia. Se escurrió entre las cadenas y cayó justo entre los hermanos, inflándose de nuevo rápidamente.
+
+"¡Suban rápido!" exclamó Chispa.
+
+Sin dudar, los tres hermanos treparon sobre el balón, que comenzó a elevarse por el aire, esquivando la trampa mortal. Justo antes de que las paredes se cerraran por completo, Chispa se impulsó con fuerza, llevándolos fuera del pasadizo.
+
+Aturdidos pero a salvo, los niños rieron nerviosos. Habían superado el mayor desafío gracias a su trabajo en equipo, su valentía y su perseverancia.
+
+Cuando llegaron a la luz del atardecer, la armadura oxidada los observaba desde la sombra.
+
+"Siempre recuerden... la unión es la clave del verdadero poder," dijo antes de desaparecer.
+
+Los tres hermanos se abrazaron, sabiendo que, juntos, nada era imposible.
+
+Moraleja: En los momentos difíciles, el trabajo en equipo y la perseverancia pueden superar cualquier obstáculo. La valentía no está en no sentir miedo, sino en enfrentarlo con el apoyo de quienes están a tu lado.
+
+Fin.
+
+# Prompt 2:
+Genera una imagen de portada para la historia estilo caricaturas
